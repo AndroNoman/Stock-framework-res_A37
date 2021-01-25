@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="in_num_days">
+        <item quantity="other">%d ရက္အတြင္း</item>
+        <item quantity="one">မနက္ျဖန္</item>
+    </plurals>
+    <plurals name="abbrev_in_num_days">
+        <item quantity="other">%d ရက္အတြင္း</item>
+        <item quantity="one">မနက္ျဖန္</item>
+    </plurals>
+    <plurals name="matches_found">
+        <item quantity="other">%1$d ၏ %2$d</item>
+        <item quantity="one">တုိက္ဆုိင္မႈ ၁</item>
+    </plurals>
+    <plurals name="restr_pin_countdown">
+        <item quantity="other">စကၠန႔္ %d အၾကာမွာ ထပ္စမ္းပါ</item>
+        <item quantity="one">1 စကၠန႔္အတြင္းမွာ ထပ္စမ္းပါ။</item>
+    </plurals>
+    <plurals name="zen_mode_duration_minutes_summary">
+        <item quantity="other">%1$d မိနစ္ (သို႔ %2$s)</item>
+        <item quantity="one">1 မိနစ္ (သို႔ %2$s)</item>
+    </plurals>
+    <plurals name="zen_mode_duration_hours_summary">
+        <item quantity="other">%1$d နာရီ (သို႔ %2$s)</item>
+        <item quantity="one">1 နာရီ (သို႔ %2$s)</item>
+    </plurals>
+    <plurals name="zen_mode_duration_minutes">
+        <item quantity="other">%d မိနစ္</item>
+        <item quantity="one">1 မိနစ္</item>
+    </plurals>
+    <plurals name="zen_mode_duration_hours">
+        <item quantity="other">%d နာရီ</item>
+        <item quantity="one">1 နာရီ</item>
+    </plurals>
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>ສ່ວນຕົວ</item>
+        <item>ວຽກ:</item>
+        <item>ອື່ນໆ</item>
+        <item>ປັບຕາມຄວາມຕ້ອງການ</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>ວຽກ:</item>
+        <item>ອື່ນໆ</item>
+        <item>ປັບຕາມຄວາມຕ້ອງການ</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>ໜ້າຫຼັກ</item>
+        <item>ໂທລະສັບ</item>
+        <item>ຫົວໜ່ວຍ</item>
+        <item>ແຟັກບ່ອນເຮັດວຽກ</item>
+        <item>ແຟັກບ້ານ</item>
+        <item>ເພເຈີ</item>
+        <item>ອື່ນໆ</item>
+        <item>ປັບຕາມຄວາມຕ້ອງການ</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>ໜ້າຫຼັກ</item>
+        <item>ວຽກ:</item>
+        <item>ອື່ນໆ</item>
+        <item>ປັບຕາມຄວາມຕ້ອງການ</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>ເຮືອນ</item>
+        <item>ບ່ອນເຮັດວຽກ</item>
+        <item>ອື່ນໆ</item>
+        <item>ກຳນົດເອງ</item>
+    </string-array>
+</resources>

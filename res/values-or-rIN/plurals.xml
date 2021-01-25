@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pinpuk_attempts">
+        <item quantity="other">ଆପଣଙ୍କର %d ଟି ପ୍ରଚେଷ୍ଟା ଅବଶିଷ୍ଟ ରହିଛି. ଯଦି ଏହି ପ୍ରକ୍ହେଷ୍ଟାଗୁଡିକ ବିଫଳ ହୁଏ, SIM କାର୍ଡ୍‌ ଲକ୍‌ ଯୁକ୍ତ ହେବ.</item>
+        <item quantity="one">ଆପଣଙ୍କର %d ଟି ପ୍ରଚେଷ୍ଟା ଅବଶିଷ୍ଟ ରହିଛି. ଯଦି ଏହି ପ୍ରକ୍ହେଷ୍ଟାଗୁଡିକ ବିଫଳ ହୁଏ, SIM କାର୍ଡ୍‌ ଲକ୍‌ ଯୁକ୍ତ ହେବ.</item>
+    </plurals>
+    <plurals name="num_seconds_ago">
+        <item quantity="other">%d ସେକେଣ୍ଡ ପୂର୍ବରୁ</item>
+        <item quantity="one">1 ସେକେଣ୍ଡ ପୂର୍ବରୁ</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%dକିଛି ମିନିଟ ପୁର୍ବେ</item>
+        <item quantity="one">1 ମିନିଟ ପୁର୍ବେ</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%dକିଛିଘଣ୍ଟା ପୁର୍ବେ</item>
+        <item quantity="one">1 ଘଣ୍ଟା ପୁର୍ବେ</item>
+    </plurals>
+    <plurals name="last_num_days">
+        <item quantity="other">ଗତ %d ଦିନ</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%dଦିନ ପୁର୍ବେ</item>
+        <item quantity="one">ଗତକାଲି</item>
+    </plurals>
+    <plurals name="in_num_seconds">
+        <item quantity="other">%d ସେକେଣ୍ଡରେ</item>
+        <item quantity="one">ଗୋଟିଏ ସେକେଣ୍ଡରେ</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d ମିନିଟ୍‌ରେ</item>
+        <item quantity="one">1 ମିନିଟ୍‌ରେ</item>
+    </plurals>
+    <plurals name="in_num_hours">
+        <item quantity="other">%d ଘଣ୍ଟାରେ</item>
+        <item quantity="one">ଗୋଟିଏ ଘଣ୍ଟାରେ ଅପଡେଟ୍‌</item>
+    </plurals>
+    <plurals name="in_num_days">
+        <item quantity="other">%d ଦିନରେ</item>
+        <item quantity="one">ଆସନ୍ତାକାଲି</item>
+    </plurals>
+    <plurals name="abbrev_num_seconds_ago">
+        <item quantity="other">%d ସେକେଣ୍ଡ ପୂର୍ବରୁ</item>
+        <item quantity="one">1 ସେକେଣ୍ଡ ପୂର୍ବରୁ</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%dକିଛି ମିନିଟ ପୁର୍ବେ</item>
+        <item quantity="one">1 ମିନିଟ ପୁର୍ବେ</item>
+    </plurals>
+    <plurals name="abbrev_num_hours_ago">
+        <item quantity="other">%dକିଛିଘଣ୍ଟା ପୁର୍ବେ</item>
+        <item quantity="one">1 ଘଣ୍ଟା ପୁର୍ବେ</item>
+    </plurals>
+    <plurals name="abbrev_num_days_ago">
+        <item quantity="other">%dଦିନ ପୁର୍ବେ</item>
+        <item quantity="one">ଗତକାଲି</item>
+    </plurals>
+    <plurals name="abbrev_in_num_seconds">
+        <item quantity="other">%d ସେକେଣ୍ଡରେ</item>
+        <item quantity="one">ଗୋଟିଏ ସେକେଣ୍ଡରେ</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d ମିନିଟ୍‌ରେ</item>
+        <item quantity="one">1 ମିନିଟ୍‌ରେ</item>
+    </plurals>
+    <plurals name="abbrev_in_num_hours">
+        <item quantity="other">%d ଘଣ୍ଟାରେ</item>
+        <item quantity="one">ଗୋଟିଏ ଘଣ୍ଟାରେ ଅପଡେଟ୍‌</item>
+    </plurals>
+    <plurals name="abbrev_in_num_days">
+        <item quantity="other">%d ଦିନରେ</item>
+        <item quantity="one">ଆସନ୍ତାକାଲି</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%dସେକେଣ୍ଡ</item>
+        <item quantity="one">1 ଦ୍ୱିତୟ</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%d ମିନିଟ</item>
+        <item quantity="one">1 ମିନିଟ୍‌</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%dଏଚ୍‌</item>
+        <item quantity="one">1 ଘଣ୍ଟା</item>
+    </plurals>
+    <plurals name="wifi_available">
+        <item quantity="other">Wi-Fi ନେଟ୍‌ୱାର୍କଗୁଡିକ ଉପଲବ୍ଧ</item>
+        <item quantity="one">Wi-Fi ନେଟ୍‌ୱାର୍କ ଉପଲବ୍ଧ</item>
+    </plurals>
+    <plurals name="wifi_available_detailed">
+        <item quantity="other">ଉପଲବ୍ଧ Wi-Fi ନେଟୱାର୍କ୍‌‌ଗୁଡିକ ଦେଖାନ୍ତୁ</item>
+        <item quantity="one">ଉପଲବ୍ଧ Wi-Fi ନେଟୱାର୍କ୍‌‌ଗୁଡିକ ଦେଖାନ୍ତୁ</item>
+    </plurals>
+    <plurals name="matches_found">
+        <item quantity="other">%2$d ର %1$d</item>
+        <item quantity="one">1 ମ୍ୟାଚ୍‌</item>
+    </plurals>
+    <plurals name="restr_pin_countdown">
+        <item quantity="other">%dସେକେଣ୍ଡରେ ପୁନର୍ବାର ଚେଷ୍ଟାକରନ୍ତୁ</item>
+        <item quantity="one">1 ସେକେଣ୍ଡରେ ପୁନର୍ବାର ଚେଷ୍ଟାକରନ୍ତୁ</item>
+    </plurals>
+    <plurals name="zen_mode_duration_minutes_summary">
+        <item quantity="other">%1$d ମିନିଟ (to %2$s)</item>
+        <item quantity="one">1 ମିନିଟ (to %2$s)</item>
+    </plurals>
+    <plurals name="zen_mode_duration_hours_summary">
+        <item quantity="other">%1$d ଘଣ୍ଟା (to %2$s)</item>
+        <item quantity="one">1 ଘଣ୍ଟା (to %2$s)</item>
+    </plurals>
+    <plurals name="zen_mode_duration_minutes">
+        <item quantity="other">%d ମିନିଟ୍‌</item>
+        <item quantity="one">1 ମିନିଟ୍‌</item>
+    </plurals>
+    <plurals name="zen_mode_duration_hours">
+        <item quantity="other">%dଏଚ୍‌</item>
+        <item quantity="one">1 ଘଣ୍ଟା</item>
+    </plurals>
+</resources>

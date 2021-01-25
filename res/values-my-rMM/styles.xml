@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Widget.TextView" parent="@style/Widget">
+        <item name="textAppearance">?textAppearanceSmall</item>
+        <item name="lineSpacingMultiplier">1.2</item>
+        <item name="textSelectHandleLeft">?textSelectHandleLeft</item>
+        <item name="textSelectHandleRight">?textSelectHandleRight</item>
+        <item name="textSelectHandle">?textSelectHandle</item>
+        <item name="textEditPasteWindowLayout">?textEditPasteWindowLayout</item>
+        <item name="textEditNoPasteWindowLayout">?textEditNoPasteWindowLayout</item>
+        <item name="textEditSidePasteWindowLayout">?textEditSidePasteWindowLayout</item>
+        <item name="textEditSideNoPasteWindowLayout">?textEditSideNoPasteWindowLayout</item>
+        <item name="textCursorDrawable">?textCursorDrawable</item>
+        <item name="textEditSuggestionItemLayout">?textEditSuggestionItemLayout</item>
+    </style>
+</resources>

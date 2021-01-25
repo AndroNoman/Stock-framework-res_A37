@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>42412</item>
+        <item>42412</item>
+        <item>42412</item>
+        <item>42412</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>21165</item>
+        <item>21165</item>
+        <item>21165</item>
+        <item>21165</item>
+        <item>21165</item>
+        <item>21165</item>
+        <item>21165</item>
+        <item>21165</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>21164</item>
+        <item>21164</item>
+        <item>21164</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>42413</item>
+        <item>42413</item>
+        <item>42413</item>
+        <item>42413</item>
+        <item>42413</item>
+        <item>42413</item>
+        <item>42413</item>
+        <item>42413</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>21162</item>
+        <item>21162</item>
+        <item>21162</item>
+        <item>21162</item>
+    </string-array>
+    <integer-array name="maps_starting_lat_lng">
+        <item>-26183333</item>
+        <item>28050000</item>
+    </integer-array>
+    <integer-array name="maps_starting_zoom">
+        <item>5</item>
+    </integer-array>
+</resources>

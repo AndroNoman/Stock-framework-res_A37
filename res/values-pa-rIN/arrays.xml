@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>ਨਿੱਜੀ</item>
+        <item>ਕੰਮ</item>
+        <item>ਹੋਰ</item>
+        <item>ਅਨੁਕੂਲ ਬਣਾਓ</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>ਕੰਮ</item>
+        <item>ਹੋਰ</item>
+        <item>ਕਸਟਮ</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>ਹੋਮ</item>
+        <item>ਫੋਨ</item>
+        <item>ਯੂਨਿਟ</item>
+        <item>ਦਫ਼ਤਰ ਦਾ ਫੈਕਸ ਨੰਬਰ</item>
+        <item>ਘਰ ਦਾ ਫੈਕਸ ਨੰਬਰ</item>
+        <item>ਪੇਜਰ</item>
+        <item>ਹੋਰ</item>
+        <item>ਅਨੁਕੂਲ ਬਣਾਓ</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>ਹੋਮ</item>
+        <item>ਕੰਮ</item>
+        <item>ਹੋਰ</item>
+        <item>ਕਸਟਮ</item>
+    </string-array>
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>個人用</item>
+        <item>勤務先</item>
+        <item>その他</item>
+        <item>ユーザー設定</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Googleトーク</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>仕事</item>
+        <item>その他</item>
+        <item>カスタム</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>自宅</item>
+        <item>携帯電話</item>
+        <item>部署</item>
+        <item>勤務先FAX</item>
+        <item>自宅FAX</item>
+        <item>ポケットベル</item>
+        <item>その他</item>
+        <item>ユーザー設定</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>自宅</item>
+        <item>仕事</item>
+        <item>その他</item>
+        <item>カスタム</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>自宅</item>
+        <item>仕事</item>
+        <item>その他</item>
+        <item>カスタム</item>
+    </string-array>
+</resources>

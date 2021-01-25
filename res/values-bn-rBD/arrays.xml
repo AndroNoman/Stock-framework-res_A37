@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>ব্যক্তিগত</item>
+        <item>কাজ</item>
+        <item>অন্যান্য</item>
+        <item>কাস্টমাইজ করুন</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>এআইএম</item>
+        <item>উইন্ডো লাইভ</item>
+        <item>ইয়াহু</item>
+        <item>স্কাইপ</item>
+        <item>কিউকিউ</item>
+        <item>গুগল টক</item>
+        <item>আইসিকিউ</item>
+        <item>জ্যাবার</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>কাজ</item>
+        <item>অন্যান্য</item>
+        <item>কাস্টম করুন</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>হোম</item>
+        <item>ফোন</item>
+        <item>কর্মক্ষেত্র</item>
+        <item>কর্মস্থলের ফ্যাক্স</item>
+        <item>বাড়ির ফ্যাক্স</item>
+        <item>পেজার</item>
+        <item>অন্যান্য</item>
+        <item>কাস্টমাইজ করুন</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>হোম</item>
+        <item>কাজ</item>
+        <item>অন্যান্য</item>
+        <item>কাস্টম করুন</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>অবস্থান সম্পর্কিত তথ্য পাওয়ার চেষ্টা করা হচ্ছে</item>
+        <item>অবস্থান সম্পর্কিত তথ্য পাওয়ার চেষ্টা করা হচ্ছে</item>
+        <item>অবস্থান সম্পর্কিত তথ্য পাওয়ার চেষ্টা করা হচ্ছে</item>
+        <item>ভাইব্রেট ব্যবহার করার চেষ্টা করা হচ্ছে</item>
+        <item>পরিচিতজনের তালিকা পড়ার চেষ্টা করা হচ্ছে</item>
+        <item>পরিচিতজনের তালিকা সংশোধন করার চেষ্টা করা হচ্ছে</item>
+        <item>কল লগ পড়ার চেষ্টা করা হচ্ছে</item>
+        <item>কল লগ সংশোধন করার চেষ্টা করা হচ্ছে</item>
+        <item>দিনপঞ্জি পড়ার চেষ্টা করা হচ্ছে</item>
+        <item>দিনপঞ্জি সংশোধন করার চেষ্টা করা হচ্ছে</item>
+        <item>অবস্থান সম্পর্কিত তথ্য পাওয়ার চেষ্টা করা হচ্ছে</item>
+        <item>বিজ্ঞপ্তি পাঠানোর চেষ্টা করা হচ্ছে</item>
+        <item>অবস্থান সম্পর্কিত তথ্য পাওয়ার চেষ্টা করা হচ্ছে</item>
+        <item>ফোন কল করার চেষ্টা করা হচ্ছে</item>
+        <item>এসএমএস পড়ার চেষ্টা করা হচ্ছে</item>
+        <item>এসএমএস সংশোধন করার চেষ্টা করা হচ্ছে</item>
+        <item>এসএমএস গ্রহণ করার চেষ্টা করা হচ্ছে</item>
+        <item>এসএমএস গ্রহণ করার চেষ্টা করা হচ্ছে</item>
+        <item>এমএমএস গ্রহণ করার চেষ্টা করা হচ্ছে</item>
+        <item>এসএমএস গ্রহণ করার চেষ্টা করা হচ্ছে</item>
+        <item>এসএমএস প্রেরণ করার চেষ্টা করা হচ্ছে</item>
+        <item>এসএমএস পড়ার চেষ্টা করা হচ্ছে</item>
+        <item>এসএমএস সংশোধন করার চেষ্টা করা হচ্ছে</item>
+        <item>সেটিংস সংশোধন করার চেষ্টা করা হচ্ছে</item>
+        <item>উপরে আঁকার চেষ্টা করা হচ্ছে</item>
+        <item>বিজ্ঞপ্তি পাওয়ার চেষ্টা করা হচ্ছে</item>
+        <item>ক্যামেরায় অ্যাক্সেস পাওয়ার চেষ্টা করা হচ্ছে</item>
+        <item>অডিও রেকর্ড করার চেষ্টা করা হচ্ছে</item>
+        <item>অডিও প্লে করার চেষ্টা করা হচ্ছে</item>
+        <item>ক্লিপবোর্ড পড়ার চেষ্টা করা হচ্ছে</item>
+        <item>ক্লিপবোর্ড সংশোধন করার চেষ্টা করা হচ্ছে</item>
+        <item>ওয়াইফাই চালু/ বন্ধ করার চেষ্টা করা হচ্ছে</item>
+        <item>ব্লুটুথ চালু/ বন্ধ করার চেষ্টা করা হচ্ছে</item>
+        <item>মোবাইল ডেটা চালু/ বন্ধ করার চেষ্টা করা হচ্ছে</item>
+        <item>এমএমএস প্রেরণ করার চেষ্টা করা হচ্ছে</item>
+        <item>এমএমএস পড়ার চেষ্টা করা হচ্ছে</item>
+        <item>এমএমএস সংশোধন করার চেষ্টা করা হচ্ছে</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>হোম</item>
+        <item>কাজ</item>
+        <item>অন্যান্য</item>
+        <item>কাস্টম করুন</item>
+    </string-array>
+</resources>

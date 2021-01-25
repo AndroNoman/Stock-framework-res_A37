@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="in_num_days">
+        <item quantity="other">දින%d ක් තුළ</item>
+        <item quantity="one">හෙට</item>
+    </plurals>
+    <plurals name="abbrev_in_num_days">
+        <item quantity="other">දින%d ක් තුළ</item>
+        <item quantity="one">හෙට</item>
+    </plurals>
+    <plurals name="matches_found">
+        <item quantity="other">%2$d හි %1$d</item>
+        <item quantity="one">ගැලපීම 1</item>
+    </plurals>
+    <plurals name="restr_pin_countdown">
+        <item quantity="other">තත්පර %d කින් නැවත උත්සාහ කරන්න</item>
+        <item quantity="one">තත්පර 1 කින් නැවත උත්සාහ කරන්න.</item>
+    </plurals>
+</resources>

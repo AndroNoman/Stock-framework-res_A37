@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>ব্যক্তিগত</item>
+        <item>কৰ্মস্থান</item>
+        <item>অইন</item>
+        <item>কাষ্টমাইজ কৰক</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>কৰ্মস্থান</item>
+        <item>অইন</item>
+        <item>কাষ্টম</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>গৃহ</item>
+        <item>ফোন</item>
+        <item>একক</item>
+        <item>কৰ্মস্থানৰ ফেক্স</item>
+        <item>ঘৰৰ ফেক্স</item>
+        <item>পেজাৰ</item>
+        <item>অইন</item>
+        <item>কাষ্টমাইজ কৰক</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>গৃহ</item>
+        <item>কৰ্মস্থান</item>
+        <item>অইন</item>
+        <item>কাষ্টম</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>অৱস্থান তথ্য প্ৰাপ্ত কৰিবলৈ চেষ্টা কৰি আছে</item>
+        <item>অৱস্থান তথ্য প্ৰাপ্ত কৰিবলৈ চেষ্টা কৰি আছে</item>
+        <item>অৱস্থান তথ্য প্ৰাপ্ত কৰিবলৈ চেষ্টা কৰি আছে</item>
+        <item>ভাইব্ৰেশ্বন ব্যৱহাৰ কৰিবলৈ চেষ্টা কৰি আছে</item>
+        <item>সম্পৰ্কসমূহ পঢ়িবলৈ চেষ্টা কৰি আছে</item>
+        <item>সম্পৰ্কসমূহ লিখিবলৈ কৰি আছে</item>
+        <item>কল লগ পঢ়িবলৈ চেষ্টা কৰি আছে</item>
+        <item>কল লগ লিখিবলৈ চেষ্টা কৰি আছে</item>
+        <item>কেলেণ্ডাৰ পঢ়িবলৈ চেষ্টা কৰি আছে</item>
+        <item>কেলেণ্ডাৰ সংশোধন কৰিবলৈ চেষ্টা কৰি আছে</item>
+        <item>অৱস্থান তথ্য প্ৰাপ্ত কৰিবলৈ চেষ্টা কৰি আছে</item>
+        <item>জাননী প্ৰেৰণ কৰিবলৈ চেষ্টা কৰি আছে</item>
+        <item>অৱস্থান তথ্য প্ৰাপ্ত কৰিবলৈ চেষ্টা কৰি আছে</item>
+        <item>ফোন কল কৰিবলৈ চেষ্টা কৰি আছে</item>
+        <item>SMS পঢ়িবলৈ চেষ্টা কৰি আছে</item>
+        <item>SMS মেচেজ লিখিবলৈ চেষ্টা কৰি আছে</item>
+        <item>SMS প্ৰাপ্ত কৰিবলৈ চেষ্টা কৰি আছে</item>
+        <item>SMS প্ৰাপ্ত কৰিবলৈ চেষ্টা কৰি আছে</item>
+        <item>MMS প্ৰাপ্ত কৰিবলৈ চেষ্টা কৰি আছে</item>
+        <item>SMS প্ৰাপ্ত কৰিবলৈ চেষ্টা কৰি আছে</item>
+        <item>SMS প্ৰেৰণ কৰিবলৈ চেষ্টা কৰি আছে</item>
+        <item>SMS পঢ়িবলৈ চেষ্টা কৰি আছে</item>
+        <item>SMS মেচেজ লিখিবলৈ চেষ্টা কৰি আছে</item>
+        <item>ছেটিংছ সংশোধন কৰিবলৈ চেষ্টা কৰি আছে</item>
+        <item>শীৰ্ষত অংকন কৰিবলৈ চেষ্টা কৰি আছে</item>
+        <item>জাননী প্ৰাপ্ত কৰিবলৈ চেষ্টা কৰি আছে</item>
+        <item>কেমেৰা এক্সেছ কৰিবলৈ চেষ্টা কৰি আছে</item>
+        <item>"অডিঅ' ৰেকৰ্ড কৰিবলৈ চেষ্টা কৰি আছে"</item>
+        <item>"অডিঅ' প্লে কৰিবলৈ চেষ্টা কৰি আছে"</item>
+        <item>"ক্লিপব'ৰ্ড পঢ়িবলৈ চেষ্টা কৰি আছে"</item>
+        <item>"ক্লিপব'ৰ্ড সংশোধন কৰিবলৈ চেষ্টা কৰি আছে"</item>
+        <item>মাল্টি-মিডিয়া বুটাম নিয়ন্ত্ৰণ কৰিবলৈ চেষ্টা কৰি আছে</item>
+        <item>"অডিঅ' ফ'কাচ নিয়ন্ত্ৰণ কৰিবলৈ চেষ্টা কৰি আছে"</item>
+        <item>মূল ভলিউম নিয়ন্ত্ৰণ কৰিবলৈ চেষ্টা কৰি আছে</item>
+        <item>ভইচ ভলিউম নিয়ন্ত্ৰণ কৰিবলৈ চেষ্টা কৰি আছে</item>
+        <item>"ৰিংট'ন ভলিউম নিয়ন্ত্ৰণ কৰিবলৈ চেষ্টা কৰি আছে"</item>
+        <item>মাল্টি-মিডিয়া ভলিউম নিয়ন্ত্ৰণ কৰিবলৈ চেষ্টা কৰি আছে</item>
+        <item>এলাৰ্ম ভলিউম নিয়ন্ত্ৰণ কৰিবলৈ চেষ্টা কৰি আছে</item>
+        <item>জাননী ভলিউম নিয়ন্ত্ৰণ কৰিবলৈ চেষ্টা কৰি আছে</item>
+        <item>Bluetooth ভলিউম নিয়ন্ত্ৰণ কৰিবলৈ চেষ্টা কৰি আছে</item>
+        <item>"ড'ৰমেন্সিৰ পৰা ফোনটো বন্ধ কৰিবলৈ চেষ্টা কৰি আছে"</item>
+        <item>অৱস্থান তথ্য প্ৰাপ্ত কৰিবলৈ চেষ্টা কৰি আছে</item>
+        <item>অৱস্থান তথ্য প্ৰাপ্ত কৰিবলৈ চেষ্টা কৰি আছে</item>
+        <item>"ব্যৱহৃত পৰিসংখ্যা ল'বলৈ চেষ্টা কৰি আছে"</item>
+        <item>মাইক্ৰফোন নিমাত কৰিবলৈ চেষ্টা কৰি আছে</item>
+        <item>"সংকেত উইণ্ড' পপ আপ কৰিবলৈ চেষ্টা কৰি আছে"</item>
+        <item>মিডিয়া প্ৰজেক্ট কৰিবলৈ চেষ্টা কৰি আছে</item>
+        <item>VPN সক্ৰিয় কৰিবলৈ চেষ্টা কৰি আছে</item>
+        <item>Wi-Fi অফ কৰিবলৈ চেষ্টা কৰি আছে</item>
+        <item>Bluetooth অন/অফ কৰিবলৈ চেষ্টা কৰি আছে</item>
+        <item>MMS প্ৰেৰণ কৰিবলৈ চেষ্টা কৰি আছে</item>
+        <item>MMS পঢ়িবলৈ চেষ্টা কৰি আছে</item>
+        <item>MMS মেচেজ লিখিবলৈ চেষ্টা কৰি আছে</item>
+        <item>স্বয়ংক্ৰিয়ভাৱে ষ্টাৰ্টআপ কৰিবলৈ চেষ্টা কৰি আছে</item>
+        <item>NFC অন/অফ কৰিবলৈ চেষ্টা কৰি আছে</item>
+        <item>SMS মেচেজ বিলোপ কৰিবলৈ চেষ্টা কৰি আছে</item>
+        <item>MMS মেচেজ বিলোপ কৰিবলৈ চেষ্টা কৰি আছে</item>
+        <item>সম্পৰ্কসমূহ বিলোপ কৰিবলৈ চেষ্টা কৰি আছে</item>
+        <item>কল লগ বিলোপ কৰিবলৈ চেষ্টা কৰি আছে</item>
+        <item>মোবাইল ডাটা সক্ষম কৰিবলৈ চেষ্টা কৰি আছে</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>গৃহ</item>
+        <item>কৰ্মস্থান</item>
+        <item>অইন</item>
+        <item>কাষ্টমাইজ কৰক</item>
+    </string-array>
+</resources>

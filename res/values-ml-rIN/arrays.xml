@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>വ്യക്തിപരമായ</item>
+        <item>ജോലി</item>
+        <item>മറ്റുള്ളത്</item>
+        <item>ഇഷ്ടാനുസൃതമാക്കുക</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>ജോലി</item>
+        <item>മറ്റുള്ളത്</item>
+        <item>ഇഷ്ടാനുസൃത</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>ഹോം</item>
+        <item>ഫോൺ</item>
+        <item>യൂണിറ്റ്</item>
+        <item>ഔദ്യോഗിക ഫാക്‌സ്</item>
+        <item>ഹോം ഫാക്‌സ്</item>
+        <item>പേജർ</item>
+        <item>മറ്റുള്ളത്</item>
+        <item>ഇഷ്ടാനുസൃതമാക്കുക</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>ഹോം</item>
+        <item>ജോലി</item>
+        <item>മറ്റുള്ളത്</item>
+        <item>ഇഷ്ടാനുസൃത</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>വീട്ടിലെ മെസഞ്ചർ ഐഡി</item>
+        <item>ഔദ്യോഗിക മെസഞ്ചർ ഐഡി</item>
+        <item>മറ്റുള്ളവ</item>
+        <item>ഇഷ്‌ടാനുസൃതം</item>
+    </string-array>
+</resources>
